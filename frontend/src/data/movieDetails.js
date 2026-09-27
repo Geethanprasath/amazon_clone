@@ -1,0 +1,92 @@
+export const movieDetailsById = {
+  2: {
+    description: 'A survey crew maps the first habitable valley on a moon where every sunrise arrives days late.',
+    duration: '1h 54m',
+    cast: ['Mira Sol', 'Evan Rook', 'Noor Kim'],
+    director: 'Lian Voss',
+  },
+  3: {
+    description: 'A coastal investigator follows a string of vanished ships to a research station hidden beneath the tide.',
+    duration: '1h 48m',
+    cast: ['Rhea Calder', 'Jonas Wren', 'Milo Hart'],
+    director: 'Tess Arlow',
+  },
+  4: {
+    description: 'Returning to her lakeside hometown, a sound archivist uncovers the story her family left unspoken.',
+    duration: '2h 02m',
+    cast: ['Nadia Vale', 'Theo Ames', 'June Park'],
+    director: 'Elian Mercer',
+  },
+  5: {
+    description: 'A courier and a retired pilot race a storm across a continent that has run out of clean water.',
+    duration: '1h 56m',
+    cast: ['Ari Bell', 'Ronan Hale', 'Sela Quinn'],
+    director: 'Dara Imani',
+  },
+  6: {
+    description: 'An archivist inherits an orchard where every tree holds a clue to a decades-old disappearance.',
+    duration: '1h 51m',
+    cast: ['Maren Ellis', 'Cal Rivas', 'Inez Wu'],
+    director: 'Suri Morrow',
+  },
+  7: {
+    description: 'A clockmaker gets one last chance to repair the day that changed the lives of everyone on her street.',
+    duration: '1h 45m',
+    cast: ['Lena Frost', 'Omar Bell', 'Eli Tan'],
+    director: 'Kira Solberg',
+  },
+  8: {
+    description: 'Alone above a silent planet, a flight engineer begins receiving messages from the future crew.',
+    duration: '2h 01m',
+    cast: ['Tarin Cho', 'Mira Ellery', 'Pax Nwosu'],
+    director: 'Lian Voss',
+  },
+  9: {
+    description: 'A night-shift medic crosses a city under lockdown to bring a witness safely home.',
+    duration: '1h 42m',
+    cast: ['Dax Rowan', 'Amara Bell', 'Kit Mercer'],
+    director: 'Niko Reyes',
+  },
+  10: {
+    description: 'A marine biologist returns to a remote harbor and finds evidence that the missing crew is still nearby.',
+    duration: '1h 50m',
+    cast: ['Rhea Calder', 'Sana Vale', 'Theo Marsh'],
+    director: 'Tess Arlow',
+  },
+  11: {
+    description: 'A weather station operator decodes a repeating signal buried inside the longest winter on record.',
+    duration: '1h 58m',
+    cast: ['Noor Kim', 'Evan Rook', 'Luca Fen'],
+    director: 'Maya Sato',
+  },
+  12: {
+    description: 'Three mismatched neighbors turn a greenhouse on their apartment roof into the brightest room in town.',
+    duration: '1h 36m',
+    cast: ['June Park', 'Rafi Miles', 'Nell Avery'],
+    director: 'Suri Morrow',
+  },
+  13: {
+    description: 'A caretaker accepts a quiet winter job at an empty inn, where each locked room has a different guest list.',
+    duration: '1h 47m',
+    cast: ['Inez Wu', 'Pax Nwosu', 'Maren Ellis'],
+    director: 'Dara Imani',
+  },
+  14: {
+    description: 'Two strangers begin exchanging letters after a small-town post office sends their parcels to the wrong doors.',
+    duration: '1h 41m',
+    cast: ['Nell Avery', 'Omar Bell', 'Lena Frost'],
+    director: 'Kira Solberg',
+  },
+  15: {
+    description: 'A curious cloud collector and a tiny lighthouse keeper set out to return the stars to the night sky.',
+    duration: '1h 29m',
+    cast: ['Kit Mercer', 'Sela Quinn', 'Tarin Cho'],
+    director: 'Elian Mercer',
+  },
+  16: {
+    description: 'Field researchers and local guides document the hidden life of an old-growth forest through one changing season.',
+    duration: '1h 33m',
+    cast: ['Milo Hart', 'Nadia Vale', 'Ari Bell'],
+    director: 'Ronan Hale',
+  },
+}
